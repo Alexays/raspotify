@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: jessie
+Date: Thu, 05 Oct 2017 16:48:31 UTC
+Architectures: armhf
+Components: main
+MD5Sum:
+ fc1d3eda281f262ad07a2be2895d1224 615 main/binary-armhf/Packages
+ 31adfc4794ce13916fdd5046aca863be 429 main/binary-armhf/Packages.gz
+ 12961a515ba3ee17d1840d76faa90087 36 main/binary-armhf/Release
+SHA1:
+ 85158ede90ec0c0dcb870907ca391a437f7a3758 615 main/binary-armhf/Packages
+ 28a46a09485d55a5b80b94575431b37d11de3505 429 main/binary-armhf/Packages.gz
+ 4922cd1d17e2d85529687db8f44c58948bc42f94 36 main/binary-armhf/Release
+SHA256:
+ 5ca3dd9bfe2a4640da352bd3966e6ca157abd1b701d57fb6d9a94d9085d18828 615 main/binary-armhf/Packages
+ 1036bcd683a8f35e0f6bef3347ecfa0e19635dc05a1f4cdf868903b07da25aa9 429 main/binary-armhf/Packages.gz
+ adaec1ced8009abfb20fa51310087da3b7332d5f3b2c5edfda188ddffe634677 36 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEELMm4D1rit6zv8royCRRvL3lTpFUFAlnWYmYACgkQCRRvL3lT
+pFWoEBAAtGub1DOR5TmAyxuRb73RA3nD7LkvxMT5cyChrxXbJ3IZTdRQm1LUrWKq
+Pgp6oh0tmR3rQ3Q+VTaaPli3icjTJoCQyRTRHBty6R4QVDDFohFrCfLsf2OkxifS
+LkigyuhvcBrikxBDJfOTJl9u9KKaYBoMMji/rIEz37uFnyqz3l1fdfeQ/FuPGKIY
+P0P/9ctdtXcRQDzSLZbAWx1Vg/Rkblf1WTzOgwGnsSotLJK4dP7VQQ/88tDxA9c5
+MoKvK6uieF8h0Lt/5eUno8ai0lr9pMIb+jQvnk5CCNjsjyuDiMrWWkmf9MXyr1vL
+xe9jqxAZo/7vPSqIzZtkcC3XdudFH9xOzo4C9E57Ay7dUxewhUQ84u4aBpn8X/iN
+BxL+N2BXut+RnVTjWLhM91xnE+ngtxnN/itf8cLy1RsEhhknzOz190h1TYU52nQr
++7UBlugQ5AZ66QNLG4doh5pvAcB+QPdRpKgrGUgJLSSBVNGC7UZtKxHqRG02VUzR
+3YThwAyYKm6u+36ltIIRk58VnW/I2YQOUvQ+57VjS9mbi7BByXgG3811L0gDwknl
+AHZSW/6tLz8/8oO6QO06B4VlJ7UQA/Lvg5oxSVpr2qQcJ/+qb1kDZnYq4VzZE9eE
+s2eaTLFuyQWVpYJosk3anRa09zhPAxDMJGjuy2HfmJsdKUjwsfg=
+=QUrq
+-----END PGP SIGNATURE-----
